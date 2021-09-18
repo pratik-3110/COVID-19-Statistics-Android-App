@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">COVID-19 Statistics</string>
+    <string name="search_country">Search Country</string>
+</resources>
